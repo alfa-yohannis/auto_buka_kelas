@@ -216,3 +216,7 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# dump halaman ter-autentikasi (data pribadi) - jangan di-commit
+tmp/
+kelas.csv
